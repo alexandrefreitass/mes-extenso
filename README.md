@@ -1,7 +1,7 @@
 ## Script de Conversão de Data para Mês por Extenso
 
 <div align="center">
-    <img src="https://github.com/alexandrefreitass/salvar-googlesheets/assets/109884524/282d50eb-9a94-463d-8dc3-3b778e1a669d" />
+    <img src="https://github.com/alexandrefreitass/mes-extenso/assets/109884524/29a08661-5e5c-4fe1-8c40-a7abe149e353" />
 </div>
 
 ### Descrição
